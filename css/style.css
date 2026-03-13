@@ -37,8 +37,16 @@ body > header h1 {
 }
 
 a {
+    width: 10px;
+    height: auto;
     color: #d47739;
     text-decoration: none;
+    transition: 0.7S;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
 }
 
 /* Основной контент */
