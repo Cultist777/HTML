@@ -40,6 +40,7 @@ a {
     width: 10px;
     height: auto;
     color: #d47739;
+    background-color: bisque;
     text-decoration: none;
     transition: 0.7S;
 }
