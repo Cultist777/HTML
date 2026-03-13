@@ -38,6 +38,7 @@ body > header h1 {
 
 a {
     color: #d47739;
+    text-decoration: none;
 }
 
 /* Основной контент */
