@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}  
+
 * {
     box-sizing: border-box;
 }
@@ -39,15 +43,14 @@ body > header h1 {
 a {
     width: 10px;
     height: auto;
-    color: #d47739;
-    background-color: bisque;
+    color: black;
     text-decoration: none;
-    transition: 0.7S;
+    transition: 0.9s;
 }
 
 a:hover{
     background-color: black;
-    color: white;
+    color: rgb(107, 130, 204);
 }
 
 /* Основной контент */
